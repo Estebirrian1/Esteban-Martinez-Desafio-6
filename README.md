@@ -1,3 +1,3 @@
-# Hola tuto, este es mi primer repositorio v:
+# Hola tuto, este es mi primer uso de SASS v:
 
-Poco a poco mejorando cositas
+Haciendo trabajos a ultima hora pero haciendolos xd
