@@ -38,10 +38,9 @@ header {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   align-content: center; }
-
-.barra__contenido-items {
-  padding: 15px 10px 20px 20px;
-  font-size: 30px; }
+  .barra__contenido-items {
+    padding: 15px 10px 20px 20px;
+    font-size: 30px; }
 
 body {
   height: 2000px; }
