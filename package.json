@@ -1,0 +1,22 @@
+{
+  "name": "desario-6",
+  "version": "1.0.0",
+  "description": "un desafio",
+  "main": "index.js",
+  "scripts": {
+    "build-esteban": "node-sass --include-path scss ./scss/style.scss ./css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Estebirrian1/Esteban-Martinez-Desafio-4-Coder.git"
+  },
+  "author": "Esteban Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Estebirrian1/Esteban-Martinez-Desafio-4-Coder/issues"
+  },
+  "homepage": "https://github.com/Estebirrian1/Esteban-Martinez-Desafio-4-Coder#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.3"
+  }
+}
